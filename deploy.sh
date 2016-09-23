@@ -22,3 +22,13 @@ git push origin master
 
 # Come Back
 cd ..
+
+# Now you are on main branch i.e source code branch (which in my case blog)
+# Add changes to git.
+
+git add -A
+
+git commit -m "$msg"
+
+# Push source repos.
+git push origin master
