@@ -1,0 +1,19 @@
++++
+categories = ["Javascript"]
+date = "2016-09-23T21:25:51+01:00"
+description = "With state being getting from redux.. react and redux both goes hand-in-hand!"
+showcomments = "true"
+tags = ["reactjs", "redux"]
+title = "eight post"
+
++++
+
+Lorem ipsum dolor sit amet, te eam dolore timeam alienum. Cu clita eirmod quaerendum pri, eam dicunt apeirian ne, eirmod complectitur his ut. Ex modo placerat senserit sea, essent persecuti persequeris vix te. Prompta vulputate mei at. At vim aeterno appellantur, nam at singulis mandamus dissentiet.
+
+Nec ea omnium perpetua efficiantur, persius docendi at eam, per delectus petentium eu. Qui assum intellegebat ut. Sonet scripta et his. At legimus moderatius vix, sed in dicam labores conclusionemque. Ut debet elitr sed. Usu ne nemore percipitur. In dicit populo eruditi duo, vidit tation pro ne.
+
+Mei iusto voluptatibus eu, ne saperet interpretaris vel, debet iriure sea an. Et invenire sensibus per. Te graeci volumus elaboraret duo, id justo deserunt quo. Ex admodum oporteat quo, per neglegentur disputationi eu. Id prima labitur voluptaria vis, vim postea cetero nominati cu, bonorum nostrum intellegebat at eam.
+
+Pro no ludus aliquip persequeris, tibique adolescens argumentum his et, summo possim facilisi sed at. Natum nonumy alterum per ne, quo ei officiis vituperata. Eius movet at mea, pri falli feugiat theophrastus ei. Mel in elitr verear molestie.
+
+Ne falli audiam audire vix. Diam luptatum oportere nam ea. Cu mollis placerat sit. Modo tacimates eloquentiam te eos, natum justo labitur cu est, eos quot minim invenire id. Vix deleniti dissentiet ad. Sea ex sale sadipscing, at meis propriae vel, ex mei saperet inermis.
