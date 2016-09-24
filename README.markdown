@@ -1,1 +1,1 @@
-# Naren Mandadapu blog built on Hugo
+# Naren Mandadapu blog source code built on Hugo
