@@ -4,7 +4,7 @@ date = "2016-09-23T21:25:51+01:00"
 description = "With state being getting from redux.. react and redux both goes hand-in-hand!"
 showcomments = "true"
 tags = ["reactjs", "redux"]
-title = "eight post"
+title = "eighth post"
 
 +++
 
