@@ -6,7 +6,7 @@ theme = "MorningPages"
 [params]
   author = "Narendra Mandadapu"
   authorTitle = "Software Engineer"
-	description = "Here I write about something about my thoughts and feelings"
+	description = "I write and discuss about my glorious failures, success, thoughts and feelings"
 	disqusShortname = "scriptstar"
 	googleAnalytics = "UA-12249392-1"
 	twitterId = "scriptstar"
